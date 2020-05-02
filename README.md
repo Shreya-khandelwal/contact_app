@@ -2,8 +2,9 @@
 
 This is a contact application. It is created in kotlin and can run on any android platform. Using this app we can add a new contact, delete a contact, edit an existing contact.
 
+
 UI of application
-![Screenshot_2020-05-02-13-54-34-92](https://user-images.githubusercontent.com/42573000/80859453-d37a5880-8c7e-11ea-80d3-bbc0702ec8fe.png)
+![Screenshot_2020-05-02-13-54-34-92](https://user-images.githubusercontent.com/42573000/80859704-6cf63a00-8c80-11ea-8779-331b658a0fea.png)
 
 Search any contact name or number
 ![Screenshot_2020-05-02-13-54-45-73](https://user-images.githubusercontent.com/42573000/80859457-dd03c080-8c7e-11ea-99f5-dda794d426d7.png)
