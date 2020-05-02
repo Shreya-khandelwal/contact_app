@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "129720719130",
+    "firebase_url": "https://rakho-kuch.firebaseio.com",
+    "project_id": "rakho-kuch",
+    "storage_bucket": "rakho-kuch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129720719130:android:117797f6cac2e06d66bea3",
+        "android_client_info": {
+          "package_name": "com.example.rakhokuch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129720719130-n9et1e11dt1059phorlr94dci4thk92l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rakhokuch",
+            "certificate_hash": "6d243bb5ef818ac23c07e17f41d045b1ae60e124"
+          }
+        },
+        {
+          "client_id": "129720719130-bjcducpnq7ifk1ok8g1qsllsife5tk0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBGl2ncdwiaRRibbzu24YY0S7KXUnTj_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129720719130-bjcducpnq7ifk1ok8g1qsllsife5tk0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
